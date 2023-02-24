@@ -9,7 +9,7 @@
 - 💻 Data Scientist @ IBM  
   
 
-- 🔭 I’m currently working on a interactive render engine for mathematical education  
+- 🔭 I’m currently working on an interactive render engine for mathematical education  
   
 
 - 🌱 I’m currently learning the mathematics behind machine learning and artificial intelligence algorithms  
