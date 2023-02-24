@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://media2.giphy.com/media/WTJLe0xXX6QrPg1nVl/giphy.gif?cid=ecf05e47092enofky098blnzz7lpjl37v8cda21xntyrf9g0&rid=giphy.gif&ct=g" align="center" style="width: 50%" />
+<img src="https://i.giphy.com/media/3ornk57KwDXf81rjWM/giphy.webp" align="center" style="width: 50%" />
 </div>  
   
 
-### <div align="center">I'm Drew, just a guy who likes mathematics and the things you can do with it. </div>  
+### I'm Drew, just a guy who likes mathematics and the things you can do with it.
   
 
 - 💻 Data Scientist @ IBM  
@@ -21,7 +21,7 @@
 <br/>  
 
 
-## My Skill Set  
+## The Stuff I Use 
 <table><tr><td valign="top" width="33%">
 
 
