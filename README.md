@@ -3,7 +3,8 @@
 </div>  
   
 ### I'm Drew, just a guy who likes mathematics and the things you can do with it.
-- 💻 Data Scientist @ IBM  
+- 💻 Data Scientist @ IBM
+- ✏️ Building intersting software from scratch
 - 🔭 Working on an interactive render engine for mathematical education  
 - 🌱 Learning the mathematics behind machine learning and artificial intelligence algorithms  
 - ⚡ I use tabs over spaces  
