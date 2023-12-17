@@ -41,7 +41,24 @@
 
 ### Frameworks / Libraries
 <div>
-
+<img style="margin: 10px" src="./image 43.png" height="50" />
+  <img style="margin: 10px" src="./image 44.png" height="50" />
+  <img style="margin: 10px" src="./image 45.png" height="50" />
+  <img style="margin: 10px" src="./image 46.png" height="50" />
+  <img style="margin: 10px" src="./image 47.png" height="50" />
+  <img style="margin: 10px" src="./image 48.png" height="50" />
+  <img style="margin: 10px" src="./image 49.png" height="50" />
+  <img style="margin: 10px" src="./image 50.png" height="50" />
+  <img style="margin: 10px" src="./image 51.png" height="50" />
+  <img style="margin: 10px" src="./image 52.png" height="50" />
+  <img style="margin: 10px" src="./image 53.png" height="50" />
+  <img style="margin: 10px" src="./image 54.png" height="50" />
+  <img style="margin: 10px" src="./image 55.png" height="50" />
+  <img style="margin: 10px" src="./image 56.png" height="50" />
+  <img style="margin: 10px" src="./image 57.png" height="50" />
+  <img style="margin: 10px" src="./image 58.png" height="50" />
+  <img style="margin: 10px" src="./image 59.png" height="50" />
+  <img style="margin: 10px" src="./image 60.png" height="50" />
 </div>
 
 ### Cloud
@@ -50,14 +67,6 @@
   <img style="margin: 10px" src="./azure.png" height="50" />
   <img style="margin: 10px" src="./google-cloud-platform-icon-1024x823-mrdn81d1.png" height="50" />
   <img style="margin: 10px" src="./b0b18bd010c5851b5f82d0a98bfde369.png" height="50" />
-</div>
-  
-### Software
-<div>
-</div>
-  
-### Misc
-<div>
 </div>
 
 ## Look Me Up
