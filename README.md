@@ -20,6 +20,7 @@
 <img style="margin: 10px" src="./typescript.png" height="50" />
 <img style="margin: 10px" src="./javascript.png" height="50" />
 <img style="margin: 10px" src="./python.png" height="50" />
+<img style="margin: 10px" src="./golang-1.svg" height="50" />
 <img style="margin: 10px" src="./bash.png" height="50" />
 <img style="margin: 10px" src="./html.png" height="50" />
 <img style="margin: 10px" src="./css.png" height="50" />
@@ -40,11 +41,15 @@
 
 ### Frameworks / Libraries
 <div>
-  
+
 </div>
 
 ### Cloud
 <div>
+  <img style="margin: 10px" src="./K8lb6OtN_400x400.jpg" height="50" />
+  <img style="margin: 10px" src="./azure.png" height="50" />
+  <img style="margin: 10px" src="./google-cloud-platform-icon-1024x823-mrdn81d1.png" height="50" />
+  <img style="margin: 10px" src="./b0b18bd010c5851b5f82d0a98bfde369.png" height="50" />
 </div>
   
 ### Software
@@ -72,25 +77,5 @@
 <a href="https://stackoverflow.com/users/drewpworden" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=drew-worden&show_icons=true&count_private=true&hide_border=true" align="center" /></div>   
-  
-
-<br/>  
-
-## What I'm Working To 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=of0qlykugh74boeip6gpf063m&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
-
-<br/>  
-
-## Look Mom I'm Popular
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=drew-worden&&style=flat-square" align="center" />
 </div> 
 
