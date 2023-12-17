@@ -6,7 +6,7 @@
 - 💻 Data Scientist @ IBM
 - ✏️ Building interesting software from scratch
 - 🔭 Working on an interactive render engine for mathematical education  
-- 🌱 Learning the mathematics behind machine learning and artificial intelligence algorithms  
+- 🌱 Constantly researching machine learning and artificial intelligence algorithms  
 - ⚡ I use tabs over spaces  
   
 <br/>  
