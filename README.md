@@ -3,7 +3,7 @@
 </div>  
   
 ### I'm Drew, just a guy who likes mathematics and the things you can do with it.
-- 💻 Data Scientist @ IBM
+- 💻 Senior Forward Deployed AI Engineer @ MongoDB
 - ✏️ Building interesting software from scratch
 - 🔭 Working on an interactive render engine for mathematical education  
 - 🌱 Constantly researching machine learning and artificial intelligence algorithms  
